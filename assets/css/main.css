@@ -153,7 +153,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #2c7aff;
+		color: #00000;
 		text-decoration: none;
 	}
 
@@ -3297,7 +3297,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #000000;
+		border-bottom: solid 5px #2c7aff;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
