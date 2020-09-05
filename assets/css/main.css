@@ -292,7 +292,7 @@ input, select, textarea {
 		}
 
 	hr {
-		border-top: 1px dashed black;
+		border-top: 3px dashed black;
 		
 		margin: 2em 0;
 	}
