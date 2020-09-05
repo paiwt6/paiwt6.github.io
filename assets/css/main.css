@@ -158,8 +158,8 @@ input, select, textarea {
 	}
 
 		a:hover {
-			border-bottom-color: #000000;
-			color: #000000 !important;
+			border-bottom-color: #00102c;
+			color: #00102c !important;
 		}
 
 			a:hover strong {
