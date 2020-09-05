@@ -293,7 +293,8 @@ input, select, textarea {
 
 	hr {
 		border-top: 1px dashed black;
-		
+		border-bottom: solid 1px rgba(210, 215, 217, 0.75);
+		margin: 2em 0;
 	}
 
 		hr.major {
@@ -3605,7 +3606,4 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
-}
-hr.new2 {
-  border-top: 1px dashed black;
 }
