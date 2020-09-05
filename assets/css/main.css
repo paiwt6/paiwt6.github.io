@@ -293,7 +293,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 0px rgba(210, 215, 217, 0.75);
+		border-bottom: solid 0px rgba(210, 215, 217, 0);
 		margin: 0em 0;
 	}
 
